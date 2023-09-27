@@ -1,15 +1,19 @@
-# Elysia with Bun runtime
+<p align="center">
+  <img src="./src//images//182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" width="50" alt="bun icon">
+</p>
+## Projeto Bun!!
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
-```bash
-bun create elysia ./elysia-example
-```
+## 🚀 Tecnologias
 
-## Development
-To start the development server run:
-```bash
-bun run dev
-```
+Projeto desenvolvido com as seguintes tecnologias:
+- [Elysia](!https://elysiajs.com/)
+- [bun](!https://bun.sh/)
+- prisma 
 
-Open http://localhost:3000/ with your browser to see the result.
+## 💻 Projeto
+
+Projeto desenvolvido com a finalidade de entender melhor o uso do Bun usando arquitetura limpa. 
+
+---
+
+Por Julia Jeske
